@@ -3,10 +3,10 @@ html{
 }
 
 body {
-    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     margin: 40px;
     color: #242424;
-    border-top: 10px solid #2037b8;
+    border-top: 10px solid #586768;
     background: #fff;
     padding: 40px;
 }
@@ -30,6 +30,6 @@ p {
     border-bottom: 2px dotted #ccc;
 }
 
-input[type="button"]{
-    width: 500px;
+input[type="text"]{
+    background-color:#adc7c9
 }
