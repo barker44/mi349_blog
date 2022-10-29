@@ -1,12 +1,12 @@
 html{
-    background: #e3e3e3;
+    background: #adc7c9;
 }
 
 body {
-    font-family:Arial, Helvetica, sans-serif;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     margin: 40px;
     color: #242424;
-    border-top: 10px solid #242424;
+    border-top: 10px solid #2037b8;
     background: #fff;
     padding: 40px;
 }
@@ -23,13 +23,13 @@ p {
 }
 
 #blog {
-    border-top: 1px dotted #ccc
+    border-top: 2px dotted #ccc;
 }
 
 .blog-post {
-    border-bottom: 1px dotted #ccc
+    border-bottom: 2px dotted #ccc;
 }
 
 input[type="button"]{
-    width: 200px
+    width: 500px;
 }
