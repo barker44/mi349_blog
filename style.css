@@ -1,24 +1,29 @@
 html{
-    background: #efd5f0;
+    background: #b8eefc;
 }
 
 body {
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     margin: 40px;
     color: #242424;
-    border-top: 10px solid #d5b1d6;
+    border-top: 10px solid #95d4f1;
     background: #fff;
     padding: 40px;
 }
 
 h1{
-    font-size: 2em;
+    font-size: 4em;
     margin: 0;
 
 }
 
+h2{
+    font-size: 3em;
+    margin: 0;
+}
+
 p {
-    line-height: 3.4em;
+    line-height: 1em;
 
 }
 
@@ -31,5 +36,5 @@ p {
 }
 
 input[type="text"]{
-    background-color:#ccc
+    background-color:rgb(228, 228, 228)
 }
