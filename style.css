@@ -3,7 +3,7 @@ html{
 }
 
 body {
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     margin: 40px;
     color: #242424;
     border-top: 10px solid #95d4f1;
@@ -12,13 +12,19 @@ body {
 }
 
 h1{
-    font-size: 4em;
+    font-size: 3em;
     margin: 0;
 
 }
 
 h2{
-    font-size: 3em;
+    font-style:italic;
+    font-size: 2em;
+    margin: 0;
+}
+
+h3{
+    font-size: 2em;
     margin: 0;
 }
 
@@ -28,13 +34,18 @@ p {
 }
 
 #blog {
-    border-top: 2px dotted #ccc;
+    border-top: 2px dashed #ccc;
+}
+
+#about {
+    border-bottom: 2px dashed #ccc;
 }
 
 .blog-post {
-    border-bottom: 2px dotted #ccc;
+    border-bottom: 2px dashed #ccc;
 }
 
 input[type="text"]{
     background-color:rgb(228, 228, 228)
 }
+
