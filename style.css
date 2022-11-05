@@ -34,19 +34,39 @@ p {
 
 }
 
-#blog {
-    border-top: 2px dashed #ccc;
-}
-
 #about {
     border-top: 2px dashed #ccc;
 }
 
 .blog-post {
-    border-bottom: 2px dashed #ccc;
+   border-bottom: 2px dashed #ccc;
 }
 
+
 input[type="text"]{
-    background-color:rgb(228, 228, 228)
+    background-color:rgb(228, 228, 228);
+}
+
+nav{
+  position: sticky;
+  top:0;
+  background: #95d4f1;
+  border: thin solid;
+}
+
+form{
+  display:flex;
+}
+
+figure { 
+  float: right;
+  text-align: center;
+  font-style: italic;
+  font-size: smaller;
+  text-indent: 0;
+}
+
+#recent{
+  border-bottom: 2px dashed #ccc;
 }
 
