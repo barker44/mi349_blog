@@ -59,7 +59,7 @@ form{
 }
 
 figure { 
-  float: right;
+  float: left;
   text-align: center;
   font-style: italic;
   font-size: smaller;
