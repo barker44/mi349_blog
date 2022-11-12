@@ -70,3 +70,8 @@ figure {
   border-bottom: 2px dashed #ccc;
 }
 
+@media (max-width: 400px) {
+  nav {
+    background:#738dac
+  }
+}
